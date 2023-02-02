@@ -9,7 +9,7 @@ const Register = (props: Props) => {
   return (
     <div className="formContainer">
     <div className="formWrapper">
-      <span className="logo">Lama Chat</span>
+      <span className="logo">Messaging app</span>
       <span className="title">Register</span>
       <form >
         <input required type="text" placeholder="display name" />

@@ -6,7 +6,7 @@ const Login = (props: Props) => {
   return (
     <div className="formContainer">
     <div className="formWrapper">
-      <span className="logo">Lama Chat</span>
+      <span className="logo">Messaging App</span>
       <span className="title">Login</span>
       <form >
         <input type="email" placeholder="email" />
